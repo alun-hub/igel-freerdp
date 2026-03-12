@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "src": "freerdp-3.x-linux64.tar.gz",
+      "dest": "/",
+      "mode": "755",
+      "exclude": [
+        "*/share/doc/*",
+        "*/share/man/*"
+      ]
+    }
+  ]
+}

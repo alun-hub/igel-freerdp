@@ -1,0 +1,9 @@
+{
+  "binaries": ["freerdp-3.x-linux64.tar.gz"],
+  "licenses": [
+    {
+      "name": "FreeRDP",
+      "text": "Licensed under the Apache License, Version 2.0. See https://github.com/FreeRDP/FreeRDP/blob/master/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "freerdp",
+  "version": "3.0.0",
+  "author": "Custom",
+  "vendor": "FreeRDP Team",
+  "categories": ["Miscellaneous"],
+  "icons": {
+    "app": "app.png",
+    "monochrome": "app-mono.png"
+  },
+  "rw_partition": {
+    "size": "small",
+    "mountpoint": "/userhome/.config/freerdp",
+    "flags": ["compressed"],
+    "post_mount": "chown user /userhome/.config/freerdp"
+  },
+  "summary": {
+    "en": "FreeRDP 3.x with smartcard passthrough"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  { "package": "libpcsclite1" },
+  { "package": "libusb-1.0-0" },
+  { "package": "libpulse0" },
+  { "package": "libavcodec58" },
+  { "package": "libavutil56" },
+  { "package": "libxrandr2" },
+  { "package": "libxrender1" },
+  { "package": "libxi6" },
+  { "package": "libxext6" },
+  { "package": "libxkbcommon0" },
+  { "package": "libcups2" },
+  { "package": "libssl3" }
+]
